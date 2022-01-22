@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Perparim Asllani ᴴᴰ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642892778/ei/ijnsYaecDYaUWqeLgsAI/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3A5d19%3Af21c%3Afae1%3A87b0/id/K-mOPO5kUBY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQWzO3UO0Y5qeHNQ5LctF-tbKlqlmpgFl-1z5Dk8F2w8CIGx_VavMID8En1scVveFqSWhjTBC3EQjqAloMNxrqZ6i/file/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Chill Song[pipo]
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642893723/ei/Oz3sYcepGJm18gPR44DgCQ/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3A5d19%3Af21c%3Afae1%3A87b0/id/QBjYQhhmzO8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANZlqV-iDU1fJ3WOs1ftGpyhkQat-W6AfUlZsMXGAVpxAiEAlWOEE_5_9-G3cP8G8IrmdRvmiIV2F9k9qHsOXQXo4L0%3D/file/index.m3u8
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/344
+#EXTINF:0 tvg-id="RTK.al" group-title="➤ Kombetare•",Rtk 1 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/57
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 2 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/58
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 3 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/59
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 4 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/60
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",RTSH 1 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/61
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh 2 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/62
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh shqip
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/63
+#EXTINF:0 tvg-id="MTV2.mk" group-title="➤ Kombetare•",MRT 2
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/64
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",AlsatM HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/65
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",AlsatM FHD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/66
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="➤ Kombetare•",Klan HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/67
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="➤ Kombetare•",Klan FHD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/68
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="➤ Kombetare•",Top channel HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/69
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="➤ Kombetare•",Top channel FHD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/70
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Syri TV HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/71
+#EXTINF:0 tvg-id="KtvHD.in" group-title="➤ Kombetare•",KTV HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/72
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="➤ Kombetare•",Klan kosova HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/73
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Vision plus HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/74
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan plus
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/75
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Kanal 10 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/76
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",T7 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/77
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Dukagjini HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/78
+#EXTINF:0 tvg-id="RTV21HD.al" group-title="➤ Kombetare•",Rtv 21 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/79
+#EXTINF:0 tvg-id="news24" group-title="➤ Kombetare•",News 24
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/80
+#EXTINF:0 tvg-id="ABCNews.al" group-title="➤ Kombetare•",Abc news
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/81
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Ora tv
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/82
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtv 21 Maqedonia
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/83
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Big brother 1  VIP
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/84
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Big brother 2 VIP
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/85
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",MCN
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/172
+#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh plus
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/366
+
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Zjarr tv
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/131
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Tv llapi
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/134
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",RTV Mitrovica
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/135
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Besa tv
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/136
+#EXTINF:0 tvg-id="BBF.al" group-title="➤ Lokale & Muzik•",bbf
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/137
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="➤ Lokale & Muzik•",Peace tv
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/139
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="➤ Lokale & Muzik•",Folk plus
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/140
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Albuk
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/141
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Koha tv
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/142
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Tv shenja
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/144
+#EXTINF:0 tvg-id="FirstChannel.al" group-title="➤ Lokale & Muzik•",First tv
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/145
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Adrianet
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/146
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Euro channel
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/147
+#EXTINF:0 tvg-id="ZoneClub.pl" group-title="➤ Lokale & Muzik•",Club tv
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/148
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Tirana tv
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/149
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Rtv 21 mix
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/151
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Kopliku
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/152
+#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Festina
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/153
