@@ -1,104 +1,143 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Perparim Asllani ᴴᴰ
-https://mp4.to/results/6b19361d954543079d8dd6c7ec66f708/?lang=en
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Chill Song[pipo]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642985926/ei/ZqXtYdOHH4381wLz5ruABQ/ip/2a03%3A4b80%3Ac71f%3Ae7c0%3Af0cb%3Afa70%3A5dcf%3A8918/id/Ps9wdzfG890.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIWPC3NuKGr-ambn_Y0HElnaeuivXbdr0HrgOuy4M1jSAiEAm_CoQ3f-HLdBBNHoSsQFK9wGkoYMT_UQLrWRtvf9VQA%3D/file/index.m3u8
-#EXTINF:0 tvg-id="RTK.al" group-title="➤ Kombetare•",Rtk 1 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/57
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 2 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/58
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 3 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/59
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtk 4 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/60
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",RTSH 1 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/61
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh 2 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/62
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh shqip
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/63
-#EXTINF:0 tvg-id="MTV2.mk" group-title="➤ Kombetare•",MRT 2
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/64
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",AlsatM HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/65
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",AlsatM FHD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/66
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="➤ Kombetare•",Klan HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/67
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="➤ Kombetare•",Klan FHD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/68
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="➤ Kombetare•",Top channel HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/69
-#EXTINF:0 tvg-id="TopChannelHD.al" group-title="➤ Kombetare•",Top channel FHD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/70
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Syri TV HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/71
-#EXTINF:0 tvg-id="KtvHD.in" group-title="➤ Kombetare•",KTV HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/72
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="➤ Kombetare•",Klan kosova HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/73
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Vision plus HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/74
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Klan plus
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/75
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Kanal 10 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/76
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",T7 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/77
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Dukagjini HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/78
-#EXTINF:0 tvg-id="RTV21HD.al" group-title="➤ Kombetare•",Rtv 21 HD
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/79
-#EXTINF:0 tvg-id="news24" group-title="➤ Kombetare•",News 24
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/80
-#EXTINF:0 tvg-id="ABCNews.al" group-title="➤ Kombetare•",Abc news
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/81
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Ora tv
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/82
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtv 21 Maqedonia
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/83
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Big brother 1  VIP
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/84
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Big brother 2 VIP
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/85
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",MCN
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/172
-#EXTINF:0 tvg-id="ext" group-title="➤ Kombetare•",Rtsh plus
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/366
-
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Zjarr tv
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/131
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Tv llapi
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/134
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",RTV Mitrovica
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/135
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Besa tv
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/136
-#EXTINF:0 tvg-id="BBF.al" group-title="➤ Lokale & Muzik•",bbf
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/137
-#EXTINF:0 tvg-id="PeaceTV.uk" group-title="➤ Lokale & Muzik•",Peace tv
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/139
-#EXTINF:0 tvg-id="FolkPlus.al" group-title="➤ Lokale & Muzik•",Folk plus
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/140
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Albuk
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/141
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Koha tv
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/142
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Tv shenja
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/144
-#EXTINF:0 tvg-id="FirstChannel.al" group-title="➤ Lokale & Muzik•",First tv
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/145
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Adrianet
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/146
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Euro channel
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/147
-#EXTINF:0 tvg-id="ZoneClub.pl" group-title="➤ Lokale & Muzik•",Club tv
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/148
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Tirana tv
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/149
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Rtv 21 mix
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/151
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Kopliku
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/152
-#EXTINF:0 tvg-id="ext" group-title="➤ Lokale & Muzik•",Festina
-http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/153
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA", Autor : Perparim Asllani
+https://m3u-editor.com/serve/7b6ae3c0-7856-11ec-866b-11d320257baf
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] BIG BROTHER 1 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/15343
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] BIG BROTHER 2 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/15344
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TOP CHANNEL FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/3
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TOP CHANNEL HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/5
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] VIZION PLUS FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/6
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] VIZION PLUS HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/8
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN TV FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/9
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN TV HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/11
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN KOSOVA FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/12
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN KOSOVA HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/14
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KTV KOHAVISION FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/15
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KTV KOHAVISION HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/17
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] DUKAGJINI FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/18
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] DUKAGJINI HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/20
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/21
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/23
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANAL 10
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/24
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANAL 10²
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/25
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ATV FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/36
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ATV HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/37
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 1 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/26
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 1 HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/27
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 2 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/28
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 2 HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/29
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 3 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/30
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 3 HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/31
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 4 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/32
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 4 HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/33
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 1 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/65
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 1 HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/66
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 2 HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/67
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 3
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/68
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 24 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/69
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 PLUS HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/63
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 MIX HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/64
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 POPULLORE
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/62
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] FIRST TV FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/34
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] FIRST TV HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/35
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] SHENJA FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/55
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] SHENJA HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/56
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ERA TV
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/58
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TV KOHA
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/61
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TV GLOBI
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/59
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TV2 GOSTIVAR
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/60
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",☰☰☰☰ [AL] PAKO SERIALE ☰☰☰☰
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/57
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ALSAT M FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/38
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ALSAT M HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/39
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ALSAT M
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/40
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] DIZI TDC FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/41
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] DIZI TDC HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/42
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANAL D DRAMA FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/43
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANAL D DRAMA HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/44
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 MACEDONIA FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/45
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 MACEDONIA HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/46
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN MACEDONIA FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/47
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN MACEDONIA HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/48
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN PLUS
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/49
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN PLUS²
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/50
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TRING JOLLY FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/51
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TRING JOLLY HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/52
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TRING 3+
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/53
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TRING 3+²
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/54
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",☰☰☰☰ [AL] PAKO LAJME ☰☰☰☰
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/70
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] T7 FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/71
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] T7 HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/73
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ARTA NEWS FHD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/74
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ARTA NEWS HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/75
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANALI 7
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/76
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ORA NEWS HD
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/77
+#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ORA NEWS
+http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/78
