@@ -1,143 +1,1033 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA", Autor : Perparim Asllani
 https://m3u-editor.com/serve/7b6ae3c0-7856-11ec-866b-11d320257baf
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] BIG BROTHER 1 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/15343
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] BIG BROTHER 2 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/15344
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TOP CHANNEL FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/3
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TOP CHANNEL HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/5
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] VIZION PLUS FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/6
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] VIZION PLUS HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/8
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN TV FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/9
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN TV HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/11
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN KOSOVA FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/12
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN KOSOVA HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/14
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KTV KOHAVISION FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/15
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KTV KOHAVISION HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/17
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] DUKAGJINI FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/18
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] DUKAGJINI HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/20
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/21
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/23
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANAL 10
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/24
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANAL 10²
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/25
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ATV FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/36
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ATV HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/37
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 1 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/26
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 1 HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/27
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 2 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/28
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 2 HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/29
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 3 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/30
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 3 HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/31
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 4 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/32
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTK 4 HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/33
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 1 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/65
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 1 HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/66
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 2 HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/67
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 3
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/68
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTSH 24 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/69
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 PLUS HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/63
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 MIX HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/64
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 POPULLORE
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/62
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] FIRST TV FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/34
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] FIRST TV HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/35
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] SHENJA FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/55
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] SHENJA HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/56
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ERA TV
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/58
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TV KOHA
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/61
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TV GLOBI
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/59
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TV2 GOSTIVAR
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/60
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",☰☰☰☰ [AL] PAKO SERIALE ☰☰☰☰
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/57
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ALSAT M FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/38
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ALSAT M HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/39
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ALSAT M
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/40
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] DIZI TDC FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/41
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] DIZI TDC HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/42
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANAL D DRAMA FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/43
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANAL D DRAMA HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/44
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 MACEDONIA FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/45
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] RTV21 MACEDONIA HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/46
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN MACEDONIA FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/47
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN MACEDONIA HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/48
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN PLUS
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/49
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KLAN PLUS²
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/50
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TRING JOLLY FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/51
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TRING JOLLY HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/52
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TRING 3+
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/53
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] TRING 3+²
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/54
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",☰☰☰☰ [AL] PAKO LAJME ☰☰☰☰
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/70
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] T7 FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/71
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] T7 HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/73
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ARTA NEWS FHD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/74
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ARTA NEWS HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/75
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] KANALI 7
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/76
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ORA NEWS HD
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/77
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA",[AL] ORA NEWS
-http://line.pito-tv.com:80/PLccVV2FMC/I5yxbUtJuJ/78
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] ALBANIA [FHD | HD] ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BIG BROTHER 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15343.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BIG BROTHER 2 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15344.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TOP CHANNEL FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TOP CHANNEL HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] VIZION PLUS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] VIZION PLUS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN TV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN TV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/11.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN KOSOVA FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/12.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN KOSOVA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/14.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KTV KOHAVISION FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KTV KOHAVISION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/17.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DUKAGJINI FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/18.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DUKAGJINI HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/20.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANAL 10
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANAL 10²
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/25.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ATV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/36.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ATV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/26.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/27.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 2 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/28.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/29.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 3 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/30.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/31.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 4 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/32.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 4 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/33.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/65.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/66.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/67.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 3
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/68.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 24 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/69.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 PLUS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/63.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 MIX HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/64.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 POPULLORE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/62.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST TV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/34.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST TV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SHENJA FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/55.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SHENJA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/56.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ERA TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/58.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV KOHA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/61.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV GLOBI
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/59.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV2 GOSTIVAR
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/60.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO SERIALE ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/57.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ALSAT M FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/38.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ALSAT M HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/39.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ALSAT M
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/40.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DIZI TDC FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/41.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DIZI TDC HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/42.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANAL D DRAMA FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/43.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANAL D DRAMA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/44.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 MACEDONIA FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/45.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 MACEDONIA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/46.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN MACEDONIA FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/47.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN MACEDONIA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/48.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN PLUS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/49.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN PLUS²
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/50.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING JOLLY FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/51.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING JOLLY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/52.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING 3+
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/53.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING 3+²
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/54.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO LAJME ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/70.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] T7 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/71.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] T7 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/73.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ARTA NEWS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/74.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ARTA NEWS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/75.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANALI 7
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/76.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ORA NEWS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/77.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ORA NEWS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/78.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN NEWS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/79.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TOP NEWS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/82.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FOX NEWS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] NEWS 24
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/83.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EURONEWS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/85.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] A2 CNN
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/80.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SCAN TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/86.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] REPORT TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/84.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SYRI VISION
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/254.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MRT 2
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/87.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO HUMOR ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/184.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/64894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR FARA E FLLIQT HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/188.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR CKA KA SHPIJA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/65826.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR HETUESIA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/52155.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR F.C. LATA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/63202.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PITO HUMOR HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/186.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PITO STUPCAT HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/185.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PITO LOL HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/187.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO DIGITALB ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/88.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM GOLD HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/89.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM MAX HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/90.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM HITS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/91.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM AKSION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/92.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM FAMILY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/96.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM KOMEDI
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/94.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM THRILLER
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/93.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM DRAME
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/95.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM AUTOR
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/97.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM STINET
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/98.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM T HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/99.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/100.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/101.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/103.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM 4 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/104.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO TRING ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/105.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING ACTION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/106.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SUPER HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/107.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING COMEDY
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/108.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING FANTASY
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/109.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING NOVELAS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15345.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING LIFE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SMILE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/111.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SHQIP
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/112.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FOX CHANNEL
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/268.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FOX LIFE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/269.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO ART MOTION ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/113.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART KINO 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/114.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART KINO 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/115.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART KINO 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART EPISODE HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART PRIME HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/118.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO KUJTESA ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILMBOX PREMIUM HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/129.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILMBOX EXTRA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/131.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILMBOX PLUS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/132.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILMBOX ARTHOUSE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY AKSION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY MAX
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/127.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY KOMEDI
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/124.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY DRAME
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/125.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY NOVELA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/126.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY 7
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY MOVIES HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/133.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY MOVIES PREMIERE HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/134.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY MOVIES ACTION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/135.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO ON-DEMAND ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/136.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST PREMIUM 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/137.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST ACTION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/138.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST THRILLER HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/139.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST COMEDY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST FAMILY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/142.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST DRAMË HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/141.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST HORROR HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/144.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST CLASSIC HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/143.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST FILMA24 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/145.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI ACTION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/146.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI THRILLER HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/148.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI COMEDY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/147.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI FANTASY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/149.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HORROR HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/150.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/151.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/152.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/153.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 4 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/154.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 5 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/155.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO FËMIJË ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/192.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BANG BANG
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/193.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] CUFO
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/194.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING TRING
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/195.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING KIDS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/196.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SOFIA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/199.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] JUNIOR
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TIP TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/198.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART PRINCE KIDS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/197.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] CARTOON NETWORK
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/203.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BOOMERANG
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/202.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] JIM JAM
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/211.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 JUNIOR
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/201.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH FEMIJË
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/204.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST KIDS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/218.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KIDS BOX
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/210.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MR.BEAN
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/212.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PJ MASKS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/214.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DRAGON BALL Z
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/216.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BARBIE TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/206.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BABY TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/207.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DUCK TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/209.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BUBERRECI TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/205.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PËRRALLA BOX
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/213.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BABY BOX
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/208.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KËNGË PËR FËMIJË
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/215.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] NINULLA PER GJUME
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/217.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO SPORT FHD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/284.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/285.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 2 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/286.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 3 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/287.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 4 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/288.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 5 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/289.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 6 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/290.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 7 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/291.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT NEWS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/316.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/308.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 2 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/309.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 3 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/310.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 4 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT NEWS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/14737.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/14738.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT 2 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/14739.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT 3 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15336.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT 4 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15337.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO SPORT FHD HEVC ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/306.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 1 FHD HEVC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/292.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 2 FHD HEVC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/293.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 3 FHD HEVC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/294.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 4 FHD HEVC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/295.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 5 FHD HEVC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/296.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 6 FHD HEVC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/297.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 7 FHD HEVC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/298.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO SPORT HD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/299.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/301.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 4 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/302.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 5 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/303.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 6 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/304.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 7 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/305.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT NEWS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/307.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/317.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/318.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/319.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 4 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/320.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/322.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/323.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/324.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 4 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/325.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 5 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/326.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART SPORT 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/336.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART SPORT 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/337.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART SPORT 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/338.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH SPORT HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/340.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIGHTBOX HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/339.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO DOKU ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/219.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EXPLORER SHKENCE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/220.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EXPLORER HISTORI
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/222.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EXPLORER NATYRA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/221.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING WORLD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/225.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING HISTORY
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/223.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING PLANET
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/224.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DISCOVERY CHANNEL HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/227.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DISCOVERY SCIENCE HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/228.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DISCOVERY TURBO EXTRA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/229.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] NATIONAL GEOGRAPHIC HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/230.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY GALAXY
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/226.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] 24KITCHEN
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/231.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] LIVING HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/232.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO MUZIK ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/234.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MTV KOSOVA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/235.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MY MUSIC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/236.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ALB' SWISS TV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/246.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ZICO TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/238.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TURBO CHANNEL
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SYRI BLUE MUSIC HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/239.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV OPOJA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/237.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/244.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI QIFTELI HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/245.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV SHARRI HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/62817.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ISTOGU CHANNEL
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/62818.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH MUZIKE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/253.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING MUSE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/249.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO LOKALE ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/250.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV LIRIA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/265.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TEMA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/262.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV MITROVICA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/260.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV PRESHEVA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/256.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BESA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/255.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV1 CHANNEL SHKODËR
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/261.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] STAR PLUS SHKODËR
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/257.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KOPLIKU HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/259.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] IN TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/264.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] A-MOL TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/258.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV ZJARR
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/263.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH SHQIP
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/252.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH KUVEND
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/251.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DH TV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/266.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO ISLAM ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/270.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PEACE TV
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/280.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV ISLAM
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/281.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV PENDIMI
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/277.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MEDINE LIVE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/275.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MEKKE LIVE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/276.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PLEX ISLAM 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/271.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PLEX ISLAM 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/272.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PLEX ISLAM 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/273.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PLEX ISLAM QURAN HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/274.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] QURAN HIDAYAH SHQIP
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/283.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] Q ISLAM HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/282.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ASHKALI ISLAM
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/278.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] GERMANY FHD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15346.m3u8
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",[DE] DAS ERSTE FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15347.m3u8
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",[DE] ZDF FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15348.m3u8
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",[DE] RTL FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15349.m3u8
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",[DE] RTL II FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15350.m3u8
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",[DE] SAT.1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15351.m3u8
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",[DE] SAT.1 GOLD FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15352.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SAT.1 EMOTIONS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15353.m3u8
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",[DE] PROSIEBEN FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15354.m3u8
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",[DE] PROSIEBEN MAXX FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15355.m3u8
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",[DE] PROSIEBEN FUN FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15356.m3u8
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",[DE] VOX FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15357.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] VOXUP
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15358.m3u8
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",[DE] KABEL EINS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15359.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] KABEL EINS DOKU FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15360.m3u8
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Channels",[DE] KABEL EINS CLASSICS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15361.m3u8
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",[DE] ARTE FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15362.m3u8
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",[DE] SIXX FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15363.m3u8
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",[DE] 3SAT FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15364.m3u8
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",[DE] NTV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15365.m3u8
+#EXTINF:0 tvg-id="WDR.de" group-title="Channels",[DE] WDR FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15366.m3u8
+#EXTINF:0 tvg-id="ndr.de" group-title="Channels",[DE] NDR FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15367.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TAGESSCHAU24 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15368.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] ARD-ALPHA FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15369.m3u8
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",[DE] RTL CRIME FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15370.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] RTL UP FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15371.m3u8
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",[DE] RTL NITRO FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15372.m3u8
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",[DE] RTL LIVING FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15373.m3u8
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",[DE] ZDF NEO FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15374.m3u8
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",[DE] ZDF INFO FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15375.m3u8
+#EXTINF:0 tvg-id="DMax.de" group-title="Channels",[DE] DMAX FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15376.m3u8
+#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",[DE] TELE 5 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15377.m3u8
+#EXTINF:0 tvg-id="AnixeHD.de" group-title="Channels",[DE] ANIXE FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15378.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WELT FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15379.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] MDR FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15380.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET KINDER FHD  ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15381.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.de" group-title="Channels",[DE] NICKELODEON FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15382.m3u8
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",[DE] DISNEY CHANNEL FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15383.m3u8
+#EXTINF:0 tvg-id="Boomerang.de" group-title="Channels",[DE] BOOMERANG FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15385.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Channels",[DE] CARTOON NETWORK FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15384.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SUPER RTL / TOGGO FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15386.m3u8
+#EXTINF:0 tvg-id="Kika.de" group-title="Channels",[DE] KIKA FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15387.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET UNTERHALTUNG FHD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15388.m3u8
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Channels",[DE] E! ENTERTAINMENT FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15389.m3u8
+#EXTINF:0 tvg-id="MTVGermany.de" group-title="Channels",[DE] MTV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15390.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] COMEDY CENTRAL FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15391.m3u8
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",[DE] 13TH STREET FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15392.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV FILM FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15393.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV COMEDY FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15394.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV SERIE FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15395.m3u8
+#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",[DE] SYFY FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15396.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SONY CHANNEL FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15397.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SONY AXN FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15398.m3u8
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",[DE] KINOWELT FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15399.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] UNIVERSAL TV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15400.m3u8
+#EXTINF:0 tvg-id="Romance.de" group-title="Channels",[DE] ROMANCE TV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15401.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET FILM UND SERIE FHD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15402.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY ONE FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15403.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA PREMIEREN FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15404.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA PREMIEREN +24 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15405.m3u8
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Channels",[DE] SKY CINEMA ACTION FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15406.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA THRILLER FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15407.m3u8
+#EXTINF:0 tvg-id="SkyComedy.de" group-title="Channels",[DE] SKY CINEMA COMEDY FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15416.m3u8
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Channels",[DE] SKY CINEMA FAMILY FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15410.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA BEST OF FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15408.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA SPECIAL FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15409.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA CLASSICS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15411.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA FUN FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15412.m3u8
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Channels",[DE] SKY ATLANTIC FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15413.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY KRIMI FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15414.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY REPLAY FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15415.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET NATUR FHD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15427.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CRIME FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15438.m3u8
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Channels",[DE] NAT GEO FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15428.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",[DE] NAT GEO WILD FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15429.m3u8
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="Channels",[DE] DISCOVERY FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15430.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CRIME+ INVESTIGATION FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15431.m3u8
+#EXTINF:0 tvg-id="History.de" group-title="Channels",[DE] HISTORY FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15432.m3u8
+#EXTINF:0 tvg-id="TLC.de" group-title="Channels",[DE] TLC FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15433.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] GEO FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15434.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] HGTV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15435.m3u8
+#EXTINF:0 tvg-id="HR.de" group-title="Channels",[DE] HR FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15436.m3u8
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="Channels",[DE] SPIEGEL GESCHICHTE FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15437.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET SPORT FHD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1202.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DAZN BAR 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1198.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DAZN BAR 2 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1196.m3u8
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="Channels",[DE] SKY SPORT NEWS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1201.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT F1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15418.m3u8
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",[DE] SKY SPORT 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1174.m3u8
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",[DE] SKY SPORT 2 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1172.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 3 FHD (SPIELZEIT )
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1170.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 4 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1167.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 5 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1164.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 6 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1161.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 7 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1158.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 8 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1155.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 9 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1153.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 10 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1150.m3u8
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1193.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 2 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1190.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 3 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1187.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 4 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1184.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 5 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1181.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 6 FHD (SPIELZEIT)
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1178.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] AMAZON PRIME VIDEO 1 FHD [EVENTS]
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15339.m3u8
+#EXTINF:0 tvg-id="Eurosport1.de" group-title="Channels",[DE] EUROSPORT 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15419.m3u8
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="Channels",[DE] EUROSPORT 2 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15420.m3u8
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",[DE] SPORT 1 FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15421.m3u8
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Channels",[DE] SPORT 1+ FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15422.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SPORT DIGITAL FUSSBALL FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15423.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] MOTORVISION TV FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15424.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] EDGE SPORT FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15426.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] ESPORTS FHD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15425.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] GERMANY HD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/451.m3u8
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",[DE] DAS ERSTE HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/449.m3u8
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",[DE] ZDF HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/446.m3u8
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",[DE] RTL HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/426.m3u8
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",[DE] RTL II HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/425.m3u8
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",[DE] SAT.1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/432.m3u8
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",[DE] SAT.1 GOLD HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/431.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SAT.1 EMOTIONS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/430.m3u8
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",[DE] PROSIEBEN HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/429.m3u8
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",[DE] PROSIEBEN MAXX HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/428.m3u8
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",[DE] PROSIEBEN FUN HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/427.m3u8
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",[DE] VOX HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/437.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] VOXUP HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/436.m3u8
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",[DE] KABEL EINS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/434.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] KABEL EINS DOKU HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/433.m3u8
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",[DE] ARTE HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/441.m3u8
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",[DE] SIXX HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/400.m3u8
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",[DE] 3SAT HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/442.m3u8
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",[DE] NTV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/439.m3u8
+#EXTINF:0 tvg-id="WDR.de" group-title="Channels",[DE] WDR HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/443.m3u8
+#EXTINF:0 tvg-id="ndr.de" group-title="Channels",[DE] NDR HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/438.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TAGESSCHAU24 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/447.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] ARD-ALPHA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/448.m3u8
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",[DE] RTL PASSION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/424.m3u8
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",[DE] RTL CRIME HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/422.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] RTL UP HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/420.m3u8
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",[DE] RTL NITRO HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/421.m3u8
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",[DE] RTL LIVING HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/419.m3u8
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",[DE] ZDF NEO HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/445.m3u8
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",[DE] ZDF INFO HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/444.m3u8
+#EXTINF:0 tvg-id="DMax.de" group-title="Channels",[DE] DMAX HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/435.m3u8
+#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",[DE] TELE 5 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/401.m3u8
+#EXTINF:0 tvg-id="AnixeHD.de" group-title="Channels",[DE] ANIXE
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/402.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WELT HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/440.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] MDR HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/347.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET KINDER HD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/452.m3u8
+#EXTINF:0 tvg-id="NickComedy.de" group-title="Channels",[DE] NICKELODEON
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/396.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] NICK TOONS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/395.m3u8
+#EXTINF:0 tvg-id="NickJr.de" group-title="Channels",[DE] NICK JR. HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/394.m3u8
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",[DE] DISNEY CHANNEL HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/398.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Channels",[DE] CARTOON NETWORK HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/393.m3u8
+#EXTINF:0 tvg-id="Boomerang.de" group-title="Channels",[DE] BOOMERANG HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/392.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SUPER RTL / TOGGO
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/390.m3u8
+#EXTINF:0 tvg-id="TOGGOplus.de" group-title="Channels",[DE] TOGGO PLUS
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/389.m3u8
+#EXTINF:0 tvg-id="Kika.de" group-title="Channels",[DE] KIKA
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/388.m3u8
+#EXTINF:0 tvg-id="Junior.de" group-title="Channels",[DE] JUNIOR
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/387.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FIX & FOX
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/391.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX KIDS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15504.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES ANIMATION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15505.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET UNTERHALTUNG HD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/453.m3u8
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Channels",[DE] E! ENTERTAINMENT HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/405.m3u8
+#EXTINF:0 tvg-id="MTVGermany.de" group-title="Channels",[DE] MTV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/404.m3u8
+#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="Channels",[DE] COMEDY CENTRAL
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/399.m3u8
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",[DE] 13TH STREET HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/410.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV SERIE HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/417.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV FILM HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/416.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV COMEDY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/415.m3u8
+#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",[DE] SYFY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/412.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SONY CHANNEL HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/414.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SONY AXN HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/413.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] UNIVERSAL TV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/409.m3u8
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",[DE] KINOWELT HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/411.m3u8
+#EXTINF:0 tvg-id="Romance.de" group-title="Channels",[DE] ROMANCE TV HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/408.m3u8
+#EXTINF:0 tvg-id="Heimatkanal.de" group-title="Channels",[DE] HEIMATKANAL
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/407.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET FILM UND SERIE HD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/454.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY ONE HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/386.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA PREMIEREN HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/385.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA PREMIEREN +24 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/384.m3u8
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Channels",[DE] SKY CINEMA ACTION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/3385.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA THRILLER HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/382.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA BEST OF HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/381.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA SPECIAL HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/380.m3u8
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Channels",[DE] SKY CINEMA FAMILY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/378.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA CLASSICS HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/379.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA FUN HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/377.m3u8
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Channels",[DE] SKY ATLANTIC HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/376.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY KRIMI HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/374.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE[ SKY REPLAY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/375.m3u8
+#EXTINF:0 tvg-id="SkySelect.de" group-title="Channels",[DE] SKY SELECT 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/373.m3u8
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",[DE] SKY SELECT 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/372.m3u8
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="Channels",[DE] SKY SELECT 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/371.m3u8
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",[DE] SKY SELECT 4 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/370.m3u8
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="Channels",[DE] SKY SELECT 5 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/369.m3u8
+#EXTINF:0 tvg-id="SkySelect6.de" group-title="Channels",[DE] SKY SELECT 6 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/368.m3u8
+#EXTINF:0 tvg-id="SkySelect7.de" group-title="Channels",[DE] SKY SELECT 7 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/367.m3u8
+#EXTINF:0 tvg-id="SkySelect8.de" group-title="Channels",[DE] SKY SELECT 8 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/366.m3u8
+#EXTINF:0 tvg-id="SkySelect9.de" group-title="Channels",[DE] SKY SELECT 9 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/365.m3u8
+#EXTINF:0 tvg-id="SkySport10.de" group-title="Channels",[DE] SKY SELECT 10 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/364.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 1 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/363.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 2 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/362.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 3 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/361.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 4 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 5 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/359.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 6 HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/358.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15502.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES ACTION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15514.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES CRIME HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15508.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES COMEDY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15513.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES FAMILY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15507.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES DRAMA HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15509.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES ROMANCE HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15506.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES HORROR HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15510.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES WESTERN HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15503.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET NATUR HD ☰☰☰☰
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/455.m3u8
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Channels",[DE] NAT GEO HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/357.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",[DE] NAT GEO WILD HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/356.m3u8
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="Channels",[DE] DISCOVERY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/355.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CRIME+ INVESTIGATION HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/354.m3u8
+#EXTINF:0 tvg-id="History.de" group-title="Channels",[DE] HISTORY HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/353.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Channels",[DE] ANIMAL PLANET HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/352.m3u8
+#EXTINF:0 tvg-id="TLC.de" group-title="Channels",[DE] TLC
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/403.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] GEO HD
+http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/351.m3u8
