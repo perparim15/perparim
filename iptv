@@ -1,1033 +1,601 @@
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="[AL] ALBANIA", Autor : Perparim Asllani
-https://m3u-editor.com/serve/7b6ae3c0-7856-11ec-866b-11d320257baf
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] ALBANIA [FHD | HD] ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BIG BROTHER 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15343.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BIG BROTHER 2 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15344.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TOP CHANNEL FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TOP CHANNEL HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] VIZION PLUS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] VIZION PLUS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/8.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN TV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN TV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/11.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN KOSOVA FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/12.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN KOSOVA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/14.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KTV KOHAVISION FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KTV KOHAVISION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/17.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DUKAGJINI FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/18.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DUKAGJINI HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/20.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/21.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/23.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANAL 10
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/24.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANAL 10²
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/25.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ATV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/36.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ATV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/37.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/26.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/27.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 2 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/28.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/29.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 3 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/30.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/31.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 4 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTK 4 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/33.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/65.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/66.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/67.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 3
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/68.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH 24 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/69.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 PLUS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/63.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 MIX HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/64.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 POPULLORE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/62.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST TV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/34.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST TV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SHENJA FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/55.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SHENJA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/56.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ERA TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/58.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV KOHA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/61.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV GLOBI
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/59.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV2 GOSTIVAR
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/60.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO SERIALE ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/57.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ALSAT M FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/38.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ALSAT M HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/39.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ALSAT M
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/40.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DIZI TDC FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/41.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DIZI TDC HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/42.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANAL D DRAMA FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/43.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANAL D DRAMA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/44.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 MACEDONIA FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/45.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 MACEDONIA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/46.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN MACEDONIA FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/47.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN MACEDONIA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/48.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN PLUS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/49.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN PLUS²
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/50.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING JOLLY FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/51.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING JOLLY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/52.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING 3+
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/53.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING 3+²
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/54.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO LAJME ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/70.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] T7 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/71.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] T7 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/73.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ARTA NEWS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/74.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ARTA NEWS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/75.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KANALI 7
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/76.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ORA NEWS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/77.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ORA NEWS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/78.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KLAN NEWS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/79.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TOP NEWS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/82.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FOX NEWS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/81.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] NEWS 24
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/83.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EURONEWS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/85.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] A2 CNN
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/80.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SCAN TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/86.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] REPORT TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/84.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SYRI VISION
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/254.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MRT 2
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/87.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO HUMOR ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/184.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/64894.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR FARA E FLLIQT HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/188.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR CKA KA SHPIJA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/65826.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR HETUESIA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/52155.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HUMOR F.C. LATA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/63202.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PITO HUMOR HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/186.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PITO STUPCAT HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/185.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PITO LOL HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/187.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO DIGITALB ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/88.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM GOLD HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/89.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM MAX HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/90.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM HITS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/91.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM AKSION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/92.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM FAMILY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/96.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM KOMEDI
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/94.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM THRILLER
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/93.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM DRAME
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/95.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM AUTOR
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/97.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM STINET
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/98.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILM T HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/99.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/100.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/101.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/103.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EUROFILM 4 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/104.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO TRING ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/105.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING ACTION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/106.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SUPER HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/107.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING COMEDY
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/108.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING FANTASY
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/109.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING NOVELAS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15345.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING LIFE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/110.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SMILE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/111.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SHQIP
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/112.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FOX CHANNEL
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/268.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FOX LIFE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/269.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO ART MOTION ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/113.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART KINO 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/114.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART KINO 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/115.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART KINO 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/116.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART EPISODE HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/117.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART PRIME HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/118.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO KUJTESA ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/122.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILMBOX PREMIUM HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/129.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILMBOX EXTRA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/131.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILMBOX PLUS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/132.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FILMBOX ARTHOUSE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/130.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY AKSION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/123.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY MAX
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/127.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY KOMEDI
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/124.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY DRAME
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/125.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY NOVELA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/126.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY 7
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/128.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY MOVIES HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/133.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY MOVIES PREMIERE HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/134.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY MOVIES ACTION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/135.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO ON-DEMAND ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/136.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST PREMIUM 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/137.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST ACTION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/138.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST THRILLER HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/139.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST COMEDY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/140.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST FAMILY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/142.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST DRAMË HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/141.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST HORROR HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/144.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST CLASSIC HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/143.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST FILMA24 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/145.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI ACTION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/146.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI THRILLER HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/148.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI COMEDY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/147.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI FANTASY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/149.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HORROR HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/150.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/151.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/152.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/153.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 4 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/154.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TELE ONE 5 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/155.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO FËMIJË ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/192.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BANG BANG
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/193.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] CUFO
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/194.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING TRING
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/195.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING KIDS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/196.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SOFIA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/199.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] JUNIOR
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/200.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TIP TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/198.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART PRINCE KIDS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/197.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] CARTOON NETWORK
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/203.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BOOMERANG
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/202.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] JIM JAM
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/211.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV21 JUNIOR
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/201.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH FEMIJË
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/204.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIRST KIDS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/218.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KIDS BOX
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/210.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MR.BEAN
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/212.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PJ MASKS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/214.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DRAGON BALL Z
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/216.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BARBIE TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/206.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BABY TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/207.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DUCK TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/209.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BUBERRECI TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/205.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PËRRALLA BOX
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/213.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BABY BOX
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/208.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KËNGË PËR FËMIJË
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/215.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] NINULLA PER GJUME
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/217.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO SPORT FHD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/284.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/285.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 2 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/286.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 3 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/287.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 4 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/288.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 5 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/289.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 6 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/290.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 7 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/291.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT NEWS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/316.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/308.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 2 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/309.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 3 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/310.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 4 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/311.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT NEWS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/14737.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/14738.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT 2 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/14739.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT 3 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15336.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] OVERSPORT 4 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15337.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO SPORT FHD HEVC ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/306.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 1 FHD HEVC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/292.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 2 FHD HEVC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/293.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 3 FHD HEVC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/294.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 4 FHD HEVC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/295.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 5 FHD HEVC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/296.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 6 FHD HEVC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/297.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 7 FHD HEVC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/298.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO SPORT HD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/321.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/299.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/300.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/301.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 4 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/302.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 5 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/303.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 6 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/304.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SUPER SPORT 7 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/305.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT NEWS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/307.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/317.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/318.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/319.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING SPORT 4 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/320.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/322.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/323.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/324.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 4 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/325.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] K SPORT 5 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/326.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART SPORT 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/336.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART SPORT 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/337.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ART SPORT 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/338.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH SPORT HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/340.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] FIGHTBOX HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/339.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO DOKU ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/219.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EXPLORER SHKENCE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/220.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EXPLORER HISTORI
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/222.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] EXPLORER NATYRA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/221.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING WORLD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/225.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING HISTORY
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/223.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING PLANET
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/224.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DISCOVERY CHANNEL HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/227.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DISCOVERY SCIENCE HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/228.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DISCOVERY TURBO EXTRA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/229.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] NATIONAL GEOGRAPHIC HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/230.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SKY GALAXY
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/226.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] 24KITCHEN
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/231.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] LIVING HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/232.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO MUZIK ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/234.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MTV KOSOVA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/235.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MY MUSIC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/236.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ALB' SWISS TV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/246.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ZICO TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/238.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TURBO CHANNEL
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/240.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] SYRI BLUE MUSIC HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/239.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV OPOJA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/237.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/244.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV PLISI QIFTELI HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/245.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV SHARRI HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/62817.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ISTOGU CHANNEL
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/62818.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH MUZIKE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/253.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TRING MUSE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/249.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO LOKALE ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/250.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV LIRIA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/265.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TEMA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/262.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV MITROVICA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/260.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV PRESHEVA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/256.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] BESA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/255.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV1 CHANNEL SHKODËR
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/261.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] STAR PLUS SHKODËR
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/257.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] KOPLIKU HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/259.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] IN TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/264.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] A-MOL TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/258.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] TV ZJARR
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/263.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH SHQIP
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/252.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTSH KUVEND
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/251.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] DH TV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/266.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [AL] PAKO ISLAM ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/270.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PEACE TV
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/280.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV ISLAM
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/281.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] RTV PENDIMI
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/277.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MEDINE LIVE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/275.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] MEKKE LIVE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/276.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PLEX ISLAM 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/271.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PLEX ISLAM 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/272.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PLEX ISLAM 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/273.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] PLEX ISLAM QURAN HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/274.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] QURAN HIDAYAH SHQIP
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/283.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] Q ISLAM HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/282.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[AL] ASHKALI ISLAM
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/278.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] GERMANY FHD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15346.m3u8
-#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",[DE] DAS ERSTE FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15347.m3u8
-#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",[DE] ZDF FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15348.m3u8
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",[DE] RTL FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15349.m3u8
-#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",[DE] RTL II FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15350.m3u8
-#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",[DE] SAT.1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15351.m3u8
-#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",[DE] SAT.1 GOLD FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15352.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SAT.1 EMOTIONS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15353.m3u8
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",[DE] PROSIEBEN FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15354.m3u8
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",[DE] PROSIEBEN MAXX FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15355.m3u8
-#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",[DE] PROSIEBEN FUN FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15356.m3u8
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",[DE] VOX FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15357.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] VOXUP
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15358.m3u8
-#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",[DE] KABEL EINS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15359.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] KABEL EINS DOKU FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15360.m3u8
-#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Channels",[DE] KABEL EINS CLASSICS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15361.m3u8
-#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",[DE] ARTE FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15362.m3u8
-#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",[DE] SIXX FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15363.m3u8
-#EXTINF:0 tvg-id="3sat.de" group-title="Channels",[DE] 3SAT FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15364.m3u8
-#EXTINF:0 tvg-id="ntv.de" group-title="Channels",[DE] NTV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15365.m3u8
-#EXTINF:0 tvg-id="WDR.de" group-title="Channels",[DE] WDR FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15366.m3u8
-#EXTINF:0 tvg-id="ndr.de" group-title="Channels",[DE] NDR FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15367.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TAGESSCHAU24 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15368.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] ARD-ALPHA FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15369.m3u8
-#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",[DE] RTL CRIME FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15370.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] RTL UP FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15371.m3u8
-#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",[DE] RTL NITRO FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15372.m3u8
-#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",[DE] RTL LIVING FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15373.m3u8
-#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",[DE] ZDF NEO FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15374.m3u8
-#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",[DE] ZDF INFO FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15375.m3u8
-#EXTINF:0 tvg-id="DMax.de" group-title="Channels",[DE] DMAX FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15376.m3u8
-#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",[DE] TELE 5 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15377.m3u8
-#EXTINF:0 tvg-id="AnixeHD.de" group-title="Channels",[DE] ANIXE FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15378.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WELT FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15379.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] MDR FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15380.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET KINDER FHD  ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15381.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.de" group-title="Channels",[DE] NICKELODEON FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15382.m3u8
-#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",[DE] DISNEY CHANNEL FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15383.m3u8
-#EXTINF:0 tvg-id="Boomerang.de" group-title="Channels",[DE] BOOMERANG FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15385.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Channels",[DE] CARTOON NETWORK FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15384.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SUPER RTL / TOGGO FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15386.m3u8
-#EXTINF:0 tvg-id="Kika.de" group-title="Channels",[DE] KIKA FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15387.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET UNTERHALTUNG FHD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15388.m3u8
-#EXTINF:0 tvg-id="EEntertainment.de" group-title="Channels",[DE] E! ENTERTAINMENT FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15389.m3u8
-#EXTINF:0 tvg-id="MTVGermany.de" group-title="Channels",[DE] MTV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15390.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] COMEDY CENTRAL FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15391.m3u8
-#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",[DE] 13TH STREET FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15392.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV FILM FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15393.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV COMEDY FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15394.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV SERIE FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15395.m3u8
-#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",[DE] SYFY FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15396.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SONY CHANNEL FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15397.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SONY AXN FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15398.m3u8
-#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",[DE] KINOWELT FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15399.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] UNIVERSAL TV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15400.m3u8
-#EXTINF:0 tvg-id="Romance.de" group-title="Channels",[DE] ROMANCE TV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15401.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET FILM UND SERIE FHD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15402.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY ONE FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15403.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA PREMIEREN FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15404.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA PREMIEREN +24 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15405.m3u8
-#EXTINF:0 tvg-id="SkyAction.de" group-title="Channels",[DE] SKY CINEMA ACTION FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15406.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA THRILLER FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15407.m3u8
-#EXTINF:0 tvg-id="SkyComedy.de" group-title="Channels",[DE] SKY CINEMA COMEDY FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15416.m3u8
-#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Channels",[DE] SKY CINEMA FAMILY FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15410.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA BEST OF FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15408.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA SPECIAL FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15409.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA CLASSICS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15411.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA FUN FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15412.m3u8
-#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Channels",[DE] SKY ATLANTIC FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15413.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY KRIMI FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15414.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY REPLAY FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15415.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET NATUR FHD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15427.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CRIME FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15438.m3u8
-#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Channels",[DE] NAT GEO FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15428.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",[DE] NAT GEO WILD FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15429.m3u8
-#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="Channels",[DE] DISCOVERY FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15430.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CRIME+ INVESTIGATION FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15431.m3u8
-#EXTINF:0 tvg-id="History.de" group-title="Channels",[DE] HISTORY FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15432.m3u8
-#EXTINF:0 tvg-id="TLC.de" group-title="Channels",[DE] TLC FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15433.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] GEO FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15434.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] HGTV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15435.m3u8
-#EXTINF:0 tvg-id="HR.de" group-title="Channels",[DE] HR FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15436.m3u8
-#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="Channels",[DE] SPIEGEL GESCHICHTE FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15437.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET SPORT FHD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1202.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DAZN BAR 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1198.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DAZN BAR 2 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1196.m3u8
-#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="Channels",[DE] SKY SPORT NEWS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1201.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT F1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15418.m3u8
-#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",[DE] SKY SPORT 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1174.m3u8
-#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",[DE] SKY SPORT 2 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1172.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 3 FHD (SPIELZEIT )
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1170.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 4 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1167.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 5 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1164.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 6 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1161.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 7 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1158.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 8 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1155.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 9 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1153.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT 10 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1150.m3u8
-#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1193.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 2 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1190.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 3 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1187.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 4 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1184.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 5 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1181.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY SPORT BUNDESLIGA 6 FHD (SPIELZEIT)
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/1178.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] AMAZON PRIME VIDEO 1 FHD [EVENTS]
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15339.m3u8
-#EXTINF:0 tvg-id="Eurosport1.de" group-title="Channels",[DE] EUROSPORT 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15419.m3u8
-#EXTINF:0 tvg-id="Eurosport2.de" group-title="Channels",[DE] EUROSPORT 2 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15420.m3u8
-#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",[DE] SPORT 1 FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15421.m3u8
-#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Channels",[DE] SPORT 1+ FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15422.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SPORT DIGITAL FUSSBALL FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15423.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] MOTORVISION TV FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15424.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] EDGE SPORT FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15426.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] ESPORTS FHD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15425.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] GERMANY HD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/451.m3u8
-#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",[DE] DAS ERSTE HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/449.m3u8
-#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",[DE] ZDF HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/446.m3u8
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",[DE] RTL HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/426.m3u8
-#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",[DE] RTL II HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/425.m3u8
-#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",[DE] SAT.1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/432.m3u8
-#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",[DE] SAT.1 GOLD HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/431.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SAT.1 EMOTIONS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/430.m3u8
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",[DE] PROSIEBEN HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/429.m3u8
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",[DE] PROSIEBEN MAXX HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/428.m3u8
-#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",[DE] PROSIEBEN FUN HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/427.m3u8
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",[DE] VOX HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/437.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] VOXUP HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/436.m3u8
-#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",[DE] KABEL EINS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/434.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] KABEL EINS DOKU HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/433.m3u8
-#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",[DE] ARTE HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/441.m3u8
-#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",[DE] SIXX HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/400.m3u8
-#EXTINF:0 tvg-id="3sat.de" group-title="Channels",[DE] 3SAT HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/442.m3u8
-#EXTINF:0 tvg-id="ntv.de" group-title="Channels",[DE] NTV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/439.m3u8
-#EXTINF:0 tvg-id="WDR.de" group-title="Channels",[DE] WDR HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/443.m3u8
-#EXTINF:0 tvg-id="ndr.de" group-title="Channels",[DE] NDR HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/438.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TAGESSCHAU24 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/447.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] ARD-ALPHA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/448.m3u8
-#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",[DE] RTL PASSION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/424.m3u8
-#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",[DE] RTL CRIME HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/422.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] RTL UP HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/420.m3u8
-#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",[DE] RTL NITRO HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/421.m3u8
-#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",[DE] RTL LIVING HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/419.m3u8
-#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",[DE] ZDF NEO HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/445.m3u8
-#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",[DE] ZDF INFO HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/444.m3u8
-#EXTINF:0 tvg-id="DMax.de" group-title="Channels",[DE] DMAX HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/435.m3u8
-#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",[DE] TELE 5 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/401.m3u8
-#EXTINF:0 tvg-id="AnixeHD.de" group-title="Channels",[DE] ANIXE
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/402.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WELT HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/440.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] MDR HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/347.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET KINDER HD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/452.m3u8
-#EXTINF:0 tvg-id="NickComedy.de" group-title="Channels",[DE] NICKELODEON
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/396.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] NICK TOONS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/395.m3u8
-#EXTINF:0 tvg-id="NickJr.de" group-title="Channels",[DE] NICK JR. HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/394.m3u8
-#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",[DE] DISNEY CHANNEL HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/398.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Channels",[DE] CARTOON NETWORK HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/393.m3u8
-#EXTINF:0 tvg-id="Boomerang.de" group-title="Channels",[DE] BOOMERANG HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/392.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SUPER RTL / TOGGO
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/390.m3u8
-#EXTINF:0 tvg-id="TOGGOplus.de" group-title="Channels",[DE] TOGGO PLUS
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/389.m3u8
-#EXTINF:0 tvg-id="Kika.de" group-title="Channels",[DE] KIKA
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/388.m3u8
-#EXTINF:0 tvg-id="Junior.de" group-title="Channels",[DE] JUNIOR
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/387.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FIX & FOX
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/391.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX KIDS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15504.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES ANIMATION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15505.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET UNTERHALTUNG HD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/453.m3u8
-#EXTINF:0 tvg-id="EEntertainment.de" group-title="Channels",[DE] E! ENTERTAINMENT HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/405.m3u8
-#EXTINF:0 tvg-id="MTVGermany.de" group-title="Channels",[DE] MTV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/404.m3u8
-#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="Channels",[DE] COMEDY CENTRAL
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/399.m3u8
-#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",[DE] 13TH STREET HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/410.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV SERIE HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/417.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV FILM HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/416.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WARNER TV COMEDY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/415.m3u8
-#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",[DE] SYFY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/412.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SONY CHANNEL HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/414.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SONY AXN HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/413.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] UNIVERSAL TV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/409.m3u8
-#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",[DE] KINOWELT HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/411.m3u8
-#EXTINF:0 tvg-id="Romance.de" group-title="Channels",[DE] ROMANCE TV HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/408.m3u8
-#EXTINF:0 tvg-id="Heimatkanal.de" group-title="Channels",[DE] HEIMATKANAL
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/407.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET FILM UND SERIE HD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/454.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY ONE HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/386.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA PREMIEREN HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/385.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA PREMIEREN +24 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/384.m3u8
-#EXTINF:0 tvg-id="SkyAction.de" group-title="Channels",[DE] SKY CINEMA ACTION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/3385.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA THRILLER HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/382.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA BEST OF HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/381.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA SPECIAL HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/380.m3u8
-#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Channels",[DE] SKY CINEMA FAMILY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/378.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA CLASSICS HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/379.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY CINEMA FUN HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/377.m3u8
-#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Channels",[DE] SKY ATLANTIC HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/376.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY KRIMI HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/374.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE[ SKY REPLAY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/375.m3u8
-#EXTINF:0 tvg-id="SkySelect.de" group-title="Channels",[DE] SKY SELECT 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/373.m3u8
-#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",[DE] SKY SELECT 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/372.m3u8
-#EXTINF:0 tvg-id="SkySelect3.de" group-title="Channels",[DE] SKY SELECT 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/371.m3u8
-#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",[DE] SKY SELECT 4 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/370.m3u8
-#EXTINF:0 tvg-id="SkySelect5.de" group-title="Channels",[DE] SKY SELECT 5 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/369.m3u8
-#EXTINF:0 tvg-id="SkySelect6.de" group-title="Channels",[DE] SKY SELECT 6 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/368.m3u8
-#EXTINF:0 tvg-id="SkySelect7.de" group-title="Channels",[DE] SKY SELECT 7 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/367.m3u8
-#EXTINF:0 tvg-id="SkySelect8.de" group-title="Channels",[DE] SKY SELECT 8 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/366.m3u8
-#EXTINF:0 tvg-id="SkySelect9.de" group-title="Channels",[DE] SKY SELECT 9 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/365.m3u8
-#EXTINF:0 tvg-id="SkySport10.de" group-title="Channels",[DE] SKY SELECT 10 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/364.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 1 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/363.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 2 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/362.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 3 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/361.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 4 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/360.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 5 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/359.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] SKY POPCORN SELECT 6 HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/358.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15502.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES ACTION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15514.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES CRIME HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15508.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES COMEDY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15513.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES FAMILY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15507.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES DRAMA HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15509.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES ROMANCE HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15506.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES HORROR HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15510.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] FLIX MOVIES WESTERN HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/15503.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",☰☰☰☰ [DE] PAKET NATUR HD ☰☰☰☰
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/455.m3u8
-#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Channels",[DE] NAT GEO HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/357.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",[DE] NAT GEO WILD HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/356.m3u8
-#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="Channels",[DE] DISCOVERY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/355.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CRIME+ INVESTIGATION HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/354.m3u8
-#EXTINF:0 tvg-id="History.de" group-title="Channels",[DE] HISTORY HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/353.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Channels",[DE] ANIMAL PLANET HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/352.m3u8
-#EXTINF:0 tvg-id="TLC.de" group-title="Channels",[DE] TLC
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/403.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] GEO HD
-http://line.pito-tv.com:80/live/iybcqUJ1lM/EIrMmIFqpe/351.m3u8
+#EXTINF:0 tvg-id="24Kitchen.al" group-title="Albania",AL: 24 Kitchen
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzNDMiLCJpZCI6NTM1OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Action
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2Mzc2NCIsImlkIjo1MzYwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Cifteli
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDY0IiwiaWQiOjUzNjF9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Drame
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2Mzc2NiIsImlkIjo1MzYyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Gjurme Shqiptare TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5MzczMyIsImlkIjo1MzYzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Humor
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2Mzc3MiIsImlkIjo1MzY0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Komedi
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2Mzc2NyIsImlkIjo1MzY1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: 8ova Thriller
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2Mzc2NSIsImlkIjo1MzY2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE3MTg5MSIsImlkIjo1MzY3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTg1NyIsImlkIjo1MzY4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ABC
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NTEiLCJpZCI6NTM2OX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ACTV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTk2NiIsImlkIjo1MzcwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALB Music
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQ0OTk0IiwiaWQiOjUzNzF9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Alb Swiss
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDM3IiwiaWQiOjUzNzN9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Albkanale Muzik
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTg1OCIsImlkIjo1Mzc0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Albuk
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwMzciLCJpZCI6NTM3Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Alpo
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI3ODUyOCIsImlkIjo1Mzc3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: Alsat M
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzNDYiLCJpZCI6NTM3OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Amol TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTM4NyIsImlkIjo1Mzc5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ANIMAL PLANET English
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTU4IiwiaWQiOjUzODB9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Apollon TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NzAzNyIsImlkIjo1MzgyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5Mzc0MSIsImlkIjo1MzgzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE3MTg4MyIsImlkIjo1Mzg1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 4
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5Mzc0NCIsImlkIjo1Mzg3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arena Sport 5
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzU3NzExIiwiaWQiOjUzODh9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Doku 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NjA4MCIsImlkIjo1Mzg5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Doku 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NjA4MSIsImlkIjo1MzkwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Kino 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NjA4NCIsImlkIjo1MzkxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Kino 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NjA4NSIsImlkIjo1MzkyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Art Kino 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NjA4NiIsImlkIjo1MzkzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzMTQzIiwiaWQiOjUzOTR9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzMTQ2IiwiaWQiOjUzOTV9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwMDYxIiwiaWQiOjUzOTZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 4
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTIxNiIsImlkIjo1Mzk3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 5
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTIxNSIsImlkIjo1Mzk4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ART Sport 6
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTIxNyIsImlkIjo1Mzk5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arta News
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwMzkiLCJpZCI6NTQwMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Arti TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI3ODUyOSIsImlkIjo1NDAxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ashkali TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5Mzc2OSIsImlkIjo1NDAyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Atd TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI3ODUzMSIsImlkIjo1NDAzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: B Kemal Sunal TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4ODI0NSIsImlkIjo1NDA0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: B Muzike
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4ODI0NyIsImlkIjo1NDA1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="BabyTV.al" group-title="Albania",AL: Baby TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNDAiLCJpZCI6NTQwNn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Balkanika Music TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTk4MSIsImlkIjo1NDA4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="BangBang.al" group-title="Albania",AL: Bang Bang
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzNDIiLCJpZCI6NTQxMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBF Music
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNDEiLCJpZCI6NTQxMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Besa TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNDIiLCJpZCI6NTQxM30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Big Brother 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4OTYxMyIsImlkIjo1NDE0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Blue Sky TV Music
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MDExNyIsImlkIjo1NDE1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BOIN TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTIwIiwiaWQiOjU0MTd9/fast
+#EXTINF:0 tvg-id="Boomerang.al" group-title="Albania",AL: Boomerang
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzNDEiLCJpZCI6NTQxOH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cartoonito
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MzE4OSIsImlkIjo1NDE5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cinema 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTU1MiIsImlkIjo1NDIxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cinema 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTU1MSIsImlkIjo1NDIyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cinema Max
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2OTg1NyIsImlkIjo1NDIzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cinemax
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NDQ0MyIsImlkIjo1NDI0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Cinemax 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NDQ0NCIsImlkIjo1NDI1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: City TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTg5OSIsImlkIjo1NDI2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ClickTV.al" group-title="Albania",AL: Click
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NDQ3IiwiaWQiOjU0Mjd9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Comedy Central Extra
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NjUxMiIsImlkIjo1NDI4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Albania",AL: Cufo
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMzkiLCJpZCI6NTQyOX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Balade
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NjQwOSIsImlkIjo1NDMwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Cka ka Shpia
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NjUyMSIsImlkIjo1NDMxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Fara e Flliqt
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NjQxNiIsImlkIjo1NDMyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Gold 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NjUzNyIsImlkIjo1NDMzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Gold 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NTMiLCJpZCI6NTQzNH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Gold 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NTQiLCJpZCI6NTQzNX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Gold 4
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NDYwIiwiaWQiOjU0MzZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Gold 5
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NjM5MiIsImlkIjo1NDM3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Gold 6
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NjM5MyIsImlkIjo1NDM4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Gold 7
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NjM5NCIsImlkIjo1NDM5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Gold 8
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NjM5NSIsImlkIjo1NDQwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Kafeneja jone
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4ODI2NCIsImlkIjo1NDQxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Popullore
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NjUzMyIsImlkIjo1NDQyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Romance
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NzQwOSIsImlkIjo1NDQzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Stupcat
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NjUyMCIsImlkIjo1NDQ0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Stupcat Skeçe
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4ODI3NiIsImlkIjo1NDQ1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dark Tallava
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NjUzNiIsImlkIjo1NDQ2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Digi Gold 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTkwNCIsImlkIjo1NDQ3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Discovery Real Time
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MDUxNCIsImlkIjo1NDQ4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Discovery Science
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NjUzMCIsImlkIjo1NDQ5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Discovery World
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNDYiLCJpZCI6NTQ1MX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Disney Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5MzcyNSIsImlkIjo1NDUzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Disney Junior
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQ0OTU5IiwiaWQiOjU0NTV9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dizi Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMzA5IiwiaWQiOjU0NTd9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Docu Box
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NzAzMyIsImlkIjo1NDU4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Dream Works
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI3NjY3MiIsImlkIjo1NDU5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Drita TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMzE4IiwiaWQiOjU0NjB9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Elkalem TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NDQ0NSIsImlkIjo1NDYxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Elrodi TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NTciLCJpZCI6NTQ2Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Episode
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2OTg3NyIsImlkIjo1NDYzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ETV.al" group-title="Albania",AL: Era TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzODY0IiwiaWQiOjU0NjR9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ESPN 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MzE5OCIsImlkIjo1NDY1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Euro
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQyODE4IiwiaWQiOjU0NjZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Euro Film 4
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTkwMiIsImlkIjo1NDY3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Eurofilm
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzU5NTIiLCJpZCI6NTQ2OH0%3D/fast
+#EXTINF:0 tvg-id="EuroNews.al" group-title="Albania",AL: euronews
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2OTgzOSIsImlkIjo1NDY5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EUROSPORT 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQ1MDQ3IiwiaWQiOjU0NzB9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: EUROSPORT 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NDU0IiwiaWQiOjU0NzF9/fast
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Albania",AL: Explorer History
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMzYiLCJpZCI6NTQ3Mn0%3D/fast
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania",AL: Explorer Natyra
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNDgiLCJpZCI6NTQ3NH0%3D/fast
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania",AL: Explorer Shkencë
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzU5NjEiLCJpZCI6NTQ3NX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film & Arts
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4NTE0OCIsImlkIjo1NDc2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania",AL: Film Aksion
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NTgiLCJpZCI6NTQ3N30%3D/fast
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania",AL: Film Autor
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMzMiLCJpZCI6NTQ3OH0%3D/fast
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL: Film Drame
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMzIiLCJpZCI6NTQ3OX0%3D/fast
+#EXTINF:0 tvg-id="DigiGold.al" group-title="Albania",AL: Film Gold
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MzIxMiIsImlkIjo1NDgwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="FilmHits.al" group-title="Albania",AL: Film Hits
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMzAiLCJpZCI6NTQ4MX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Komedi TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMjkiLCJpZCI6NTQ4Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Max
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMzEiLCJpZCI6NTQ4M30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Stinet
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwOTYiLCJpZCI6NTQ4NH0%3D/fast
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania",AL: Film Thriller
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMjgiLCJpZCI6NTQ4NX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FILMA24 Romance
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2OTg1OCIsImlkIjo1NDg2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FilmBox Arthouse
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NTg5NSIsImlkIjo1NDg3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FilmBox Extra
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NTg5NiIsImlkIjo1NDg4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FilmBox Premium
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NTg5NCIsImlkIjo1NDg5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="FirstChannel.al" group-title="Albania",AL: First Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTg1NSIsImlkIjo1NDkwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Flutra
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MDE0MiIsImlkIjo1NDkxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Folk+
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNTMiLCJpZCI6NTQ5Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Folklorit
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI3ODE5MiIsImlkIjo1NDkzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="Fox.al" group-title="Albania",AL: FOX
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxMzMiLCJpZCI6NTQ5NH0%3D/fast
+#EXTINF:0 tvg-id="FoxCrime.al" group-title="Albania",AL: Fox Crime
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNTUiLCJpZCI6NTQ5NX0%3D/fast
+#EXTINF:0 tvg-id="FoxLife.al" group-title="Albania",AL: Fox Life
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxMzIiLCJpZCI6NTQ5Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fox Movies
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNTYiLCJpZCI6NTQ5OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fox News
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxMzYiLCJpZCI6NTQ5OX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Fox Soccer Plus
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MzE4NyIsImlkIjo1NTAwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Frame TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTk2NyIsImlkIjo1NTAxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FreeSports
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5NzA2OCIsImlkIjo1NTAyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FXX
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MzE5NyIsImlkIjo1NTAzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Gjolli Islam
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzNzk1IiwiaWQiOjU1MDR9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Globi TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MDE2MSIsImlkIjo1NTA1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HBO
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2MTU1IiwiaWQiOjU1MDZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HBO 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2MTYxIiwiaWQiOjU1MDd9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HBO 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2MTU2IiwiaWQiOjU1MDh9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: HS Tallava TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzY3MTUiLCJpZCI6NTUwOX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: I Love Tropoja TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NjY1NyIsImlkIjo1NTEwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Investigation Discovery
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MDUxMyIsImlkIjo1NTExfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Istogu Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMzA1IiwiaWQiOjU1MTN9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: JimJam
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NTg3MSIsImlkIjo1NTE0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="JuniorTV.al" group-title="Albania",AL: Junior TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NjAiLCJpZCI6NTUxNn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal 10
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5ODg0MCIsImlkIjo1NTE4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal D Drama
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2MTgyIiwiaWQiOjU1MTl9/fast
+#EXTINF:0 tvg-id="Kanali7.al" group-title="Albania",AL: Kanali 7
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNjIiLCJpZCI6NTUyMH0%3D/fast
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: Klan Kosova
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NjEiLCJpZCI6NTUyMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan Music
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NjUwMyIsImlkIjo1NTIyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan Plus
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NjIiLCJpZCI6NTUyNH0%3D/fast
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Albania",AL: Klan TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MTE5NyIsImlkIjo1NTI1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Koha TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMTUiLCJpZCI6NTUyNn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Korca Plus
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NDQzNCIsImlkIjo1NTI3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: KTV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4NDIwOSIsImlkIjo1NTI4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NjMiLCJpZCI6NTUyOX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NjQiLCJpZCI6NTUzMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NjUiLCJpZCI6NTUzMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 4
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NjYiLCJpZCI6NTUzMn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kujtesa Sport 5
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyMDgyMSIsImlkIjo1NTMzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Lion TV Shqip
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE0NTkzMCIsImlkIjo1NTM0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Liria TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2MzQwMSIsImlkIjo1NTM1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="Living.al" group-title="Albania",AL: Living
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNzAiLCJpZCI6NTUzNn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Lobi TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2OTg3MSIsImlkIjo1NTM3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Malisheva TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5ODQ1MCIsImlkIjo1NTM4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Masha & bear
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2MzczNyIsImlkIjo1NTM5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MCN TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4Njc5OCIsImlkIjo1NTQwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MFM Music
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQ1MDE5IiwiaWQiOjU1NDF9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Mr Bean
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MDUxMSIsImlkIjo1NTQzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: MTV Kosova
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NDgzIiwiaWQiOjU1NDR9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Muse TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNzIiLCJpZCI6NTU0NX0%3D/fast
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Albania",AL: My Music
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE3MTg5NSIsImlkIjo1NTQ2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="NationalGeographic.al" group-title="Albania",AL: NAT GEO
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzY3MzciLCJpZCI6NTU0OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: NAT GEO Wild
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzNzUzIiwiaWQiOjU1NTB9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Neser TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MDQ1NSIsImlkIjo1NTUyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="News24.al" group-title="Albania",AL: News 24
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxMjciLCJpZCI6NTU1M30%3D/fast
+#EXTINF:0 tvg-id="ONTV.al" group-title="Albania",AL: ON TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDQwIiwiaWQiOjU1NTR9/fast
+#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",AL: Ora News
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxMjYiLCJpZCI6NTU1NX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MDIxOCIsImlkIjo1NTU2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTUxNCIsImlkIjo1NTU3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MDUzNyIsImlkIjo1NTU4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: OVERSPORT 4
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MDUzOCIsImlkIjo1NTU5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania",AL: Peace TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTYyIiwiaWQiOjU1NjB9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Plus TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI3ODE2NiIsImlkIjo1NTYxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Podujeva
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTUyOSIsImlkIjo1NTYyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Pollogu
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NDgzNiIsImlkIjo1NTYzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Premium Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzNzgwIiwiaWQiOjU1NjR9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Prince Kids
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQ0OTQ5IiwiaWQiOjU1NjV9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Prizreni
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2NDgzNSIsImlkIjo1NTY2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Report TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNzciLCJpZCI6NTU2N30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Roma TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5NzA2NSIsImlkIjo1NTY4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rozafa News
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzY3MzAiLCJpZCI6NTU2OX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMjMiLCJpZCI6NTU3MH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NTQiLCJpZCI6NTU3MX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NTUiLCJpZCI6NTU3Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 24
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzU5NjIiLCJpZCI6NTU3M30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Agro
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5MzcxNyIsImlkIjo1NTc0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Femije
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxNDYiLCJpZCI6NTU3NX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Film
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxNDUiLCJpZCI6NTU3Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Gjirokastra
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzNzAwIiwiaWQiOjU1Nzd9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Kids
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NDg2NyIsImlkIjo1NTc4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Korca
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzNzA4IiwiaWQiOjU1Nzl9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Kukesi
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE5ODY2MyIsImlkIjo1NTgwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Kuvend
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIyNDM0IiwiaWQiOjU1ODF9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Muzike
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxNDQiLCJpZCI6NTU4Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Plus
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2OTgzMSIsImlkIjo1NTg0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Satelit
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MjMwMSIsImlkIjo1NTg1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Shkolle
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NTYiLCJpZCI6NTU4Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Shqip
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxNDMiLCJpZCI6NTU4N30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Sport
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NjgiLCJpZCI6NTU4OH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTk5NCIsImlkIjo1NTg5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV 2 MIX
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MDE0MyIsImlkIjo1NTkwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Ahireti
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTk4NyIsImlkIjo1NTkxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Aldi
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MjAwOCIsImlkIjo1NTkyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Fontana
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MjAwNiIsImlkIjo1NTkzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Herceg Bosne
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NDg2OSIsImlkIjo1NTk0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Ilirida
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4NDc0MyIsImlkIjo1NTk1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Pendimi
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTk4MiIsImlkIjo1NTk2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: S TV Folk
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzMwMTc4IiwiaWQiOjU1OTd9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Scan TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzNzM1IiwiaWQiOjU1OTh9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Shenja TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDE0IiwiaWQiOjU1OTl9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky 7
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTUxIiwiaWQiOjU2MDB9/fast
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania",AL: Sky Aksion
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTUxNSIsImlkIjo1NjAxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Comedy
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTUxNiIsImlkIjo1NjAyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Drama
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTUxNyIsImlkIjo1NjAzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Max
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI2MTI3IiwiaWQiOjU2MDR9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sky Novela
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NDk2IiwiaWQiOjU2MDV9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SKY Star
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyMDgxOCIsImlkIjo1NjA2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="Sofia.al" group-title="Albania",AL: Sofia
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTM5IiwiaWQiOjU2MDd9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Spin TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzY3MTQiLCJpZCI6NTYwOH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sport Klub 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTc1IiwiaWQiOjU2MDl9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Sport Klub 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTcyIiwiaWQiOjU2MTF9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Star Plus
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDI4IiwiaWQiOjU2MTN9/fast
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Albania",AL: Super Sonic TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwOTgiLCJpZCI6NTYxNH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SuperSport 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMTIiLCJpZCI6NTYxNX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SuperSport 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMTkiLCJpZCI6NTYxNn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SuperSport 4
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMTgiLCJpZCI6NTYxN30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SuperSport 5
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NjAiLCJpZCI6NTYxOH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SuperSport 6
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzM2MzgiLCJpZCI6NTYxOX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SuperSport 7
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE3NDQ0MSIsImlkIjo1NjIwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",AL: SuperSport News
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMTMiLCJpZCI6NTYyMX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri News TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMDAiLCJpZCI6NTYyMn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: SYRI TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwOTkiLCJpZCI6NTYyM30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri Vizion
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyMDc5MiIsImlkIjo1NjI0fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMDEiLCJpZCI6NTYyNX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T7
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTg1MSIsImlkIjo1NjI2fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TemaTV.al" group-title="Albania",AL: Tema TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMDIiLCJpZCI6NTYyN30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Teuta
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2OTg4MiIsImlkIjo1NjI4fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TEVE 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTUyNyIsImlkIjo1NjI5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="TipTv.al" group-title="Albania",AL: Tip TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NzQiLCJpZCI6NTYzMH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TLC
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1MTc2NCIsImlkIjo1NjMxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TNT Series
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4NTE0MCIsImlkIjo1NjMyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tom & Jerry
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTQzIiwiaWQiOjU2MzN9/fast
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Albania",AL: TOP Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMTEiLCJpZCI6NTYzNH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TOP Estrada
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NTAyIiwiaWQiOjU2MzV9/fast
+#EXTINF:0 tvg-id="TopNews.al" group-title="Albania",AL: TOP News
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxMjIiLCJpZCI6NTYzNn0%3D/fast
+#EXTINF:0 tvg-id="TravelChannel.al" group-title="Albania",AL: Travel Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzUxMjEiLCJpZCI6NTYzN30%3D/fast
+#EXTINF:0 tvg-id="3Plus.al" group-title="Albania",AL: Tring 3 Plus
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMDUiLCJpZCI6NTYzOX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Action
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDgiLCJpZCI6NTY0MH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Classic
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5MDUxNiIsImlkIjo1NjQxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Collection
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTUyOCIsImlkIjo1NjQyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania",AL: Tring Comedy
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMTAiLCJpZCI6NTY0M30%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Family
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNjMiLCJpZCI6NTY0NH0%3D/fast
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania",AL: Tring Fantasy
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI1NzciLCJpZCI6NTY0NX0%3D/fast
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania",AL: Tring History
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzNDUiLCJpZCI6NTY0Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring International
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE1NTM1IiwiaWQiOjU2NDh9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Jolly
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMjciLCJpZCI6NTY0OX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Kids
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQ0OTUyIiwiaWQiOjU2NTB9/fast
+#EXTINF:0 tvg-id="TringLife.al" group-title="Albania",AL: Tring Life
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDkiLCJpZCI6NTY1MX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Tring Novelas
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzIzNzU0IiwiaWQiOjU2NTN9/fast
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania",AL: Tring Planet
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzNDQiLCJpZCI6NTY1NH0%3D/fast
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania",AL: Tring Shqip
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDciLCJpZCI6NTY1NX0%3D/fast
+#EXTINF:0 tvg-id="Smile.al" group-title="Albania",AL: Tring Smile
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMjIiLCJpZCI6NTY1Nn0%3D/fast
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania",AL: Tring Sport 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDYiLCJpZCI6NTY1N30%3D/fast
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania",AL: Tring Sport 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDUiLCJpZCI6NTY1OH0%3D/fast
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania",AL: Tring Sport 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDQiLCJpZCI6NTY1OX0%3D/fast
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania",AL: Tring Sport 4
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NjIiLCJpZCI6NTY2MH0%3D/fast
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania",AL: Tring Sport News
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NjEiLCJpZCI6NTY2MX0%3D/fast
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Albania",AL: Tring Super
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDMiLCJpZCI6NTY2Mn0%3D/fast
+#EXTINF:0 tvg-id="TringTring.al" group-title="Albania",AL: Tring Tring
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDIiLCJpZCI6NTY2M30%3D/fast
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania",AL: Tring World
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEzMDEiLCJpZCI6NTY2NH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Turbo Channel
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzY3MTciLCJpZCI6NTY2NX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV 7 Albania
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzY3NjIiLCJpZCI6NTY2Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Diaspora
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTM1MCIsImlkIjo1NjY3fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Dielli
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDE4IiwiaWQiOjU2Njh9/fast
+#EXTINF:0 tvg-id="TVDukagjini.al" group-title="Albania",AL: TV Dukagjini
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzY3MDgiLCJpZCI6NTY2OX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Gold Johaniter
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI5NTA5MyIsImlkIjo1NjcwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Albania",AL: TV Klan
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4NTMiLCJpZCI6NTY3MX0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Kopliku
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE3MzQ1OCIsImlkIjo1NjcyfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Mitrovica
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMTgiLCJpZCI6NTY3M30%3D/fast
+#EXTINF:0 tvg-id="opoja.tv" group-title="Albania",AL: TV Opoja
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQxMTkiLCJpZCI6NTY3NH0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Presheva
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MDE2MCIsImlkIjo1Njc1fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Puls
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNzYiLCJpZCI6NTY3Nn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Sharri
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDE2IiwiaWQiOjU2Nzd9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Uskana
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDIxIiwiaWQiOjU2Nzh9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV1 Shkoder
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE4ODA3NiIsImlkIjo1Njc5fQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV2 Gostivar
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2OTg0MiIsImlkIjo1NjgwfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Ulqini TV
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI3ODU4MiIsImlkIjo1NjgxfQ%3D%3D/fast
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",AL: Vizion Plus
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyOTkiLCJpZCI6NTY4Mn0%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Web Star Masha & Bear
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzI4MTk4MyIsImlkIjo1NjgzfQ%3D%3D/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X HUMOR
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzE2NDM3IiwiaWQiOjU2ODR9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X premiere 1
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzEyNDU3IiwiaWQiOjU2ODV9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X Premiere 2
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzQwNTM1IiwiaWQiOjU2ODZ9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X premiere 3
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2Lzg0MTMzIiwiaWQiOjU2ODd9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Zeri
+http://api.iptveditor.com/Forumi-iptv-shqip/Nexho-Avdiu/ueyJ1cmwiOiJodHRwOi8vcXVhbGl0eS1yZXN0cmVhbS5jb206ODA4MC9NaWdsaW9yaXB0di85bWVpY2dkZWM2LzkxMDY0IiwiaWQiOjU2ODh9/fast
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Zjarr TV
