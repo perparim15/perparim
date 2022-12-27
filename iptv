@@ -1867,6 +1867,10 @@ http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2215.ts
 http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2216.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB: Alsat M HD" tvg-logo="" group-title="ALBANIA",ALB: Alsat M HD
 http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="ALBANIA",Big Brother 1 HD AL
+http://clientportal.link:80/spoky61/spjFeg367/89640
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="ALBANIA",Big Brother 2 HD AL
+http://clientportal.link:80/spoky61/spjFeg367/89641
 #EXTINF:-1 tvg-id="" tvg-name="ALB: Klan Kosova" tvg-logo="" group-title="ALBANIA",ALB: Klan Kosova
 http://solo-v7.sytes.net:2082/live/007bro/3NqFQYsLhs/2218.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB: KTV HD" tvg-logo="" group-title="ALBANIA",ALB: KTV HD
